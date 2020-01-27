@@ -2,7 +2,7 @@
   "name": "mvc-mysql-wdc",
   "version": "1.0.0",
   "scripts": {
-    "server": "nodemon --watch app.js"
+    "server": "nodemon --watch server/* app.js"
   },
   "main": "app.js",
   "author": "Doni Setiawan <donisetiawan.050@gmail.com>",
